@@ -1,0 +1,8 @@
+openapi: 3.0.3
+info:
+  title: djchat
+  version: 1.0.0
+  description: Full stack chat project with Django REST Framework on the backend side
+    and React.js on the frontend
+paths: {}
+components: {}

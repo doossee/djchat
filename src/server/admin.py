@@ -12,6 +12,7 @@ class CategoryAdmin(admin.ModelAdmin):
 class ServerAdmin(admin.ModelAdmin):
     pass
 
+
 @admin.register(Channel)
 class ChannelAdmin(admin.ModelAdmin):
     pass
